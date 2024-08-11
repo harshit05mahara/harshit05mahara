@@ -1,8 +1,4 @@
-# print('\n\n\n')
-# print( '\t\t\thiee bh***d kaun banega crorepati main aapka swagat hai')
-# print('\n\n')
-# c=input()
- 
+
 que=['1.which language frequently used in japan?', 'japanese','punjabi','hindi','english']
 i=0
 money=0
